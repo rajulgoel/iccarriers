@@ -1,0 +1,16 @@
+{
+  "name": "Indo Canadian Carriers - Refrigerated Transportation",
+  "short_name": "ICC Transport",
+  "description": "Professional refrigerated transportation services across Canada and USA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#dc2626",
+  "icons": [
+    {
+      "src": "assets/imgs/logo.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    }
+  ]
+}
