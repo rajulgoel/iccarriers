@@ -1,4 +1,4 @@
-# Indo Canadian Carriers Website (Try Now)[https://www.iccarriers.com/]
+# Indo Canadian Carriers Website [Try Now](https://www.iccarriers.com/)
 
 A professional, responsive single-page website for **Indo Canadian Carriers**, a refrigerated transportation service operating across Canada and the USA. This project showcases the company's services, fleet, and certifications while providing clients with an easy way to request quotes and get in touch.
 
